@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies" : {
-    "node-markdown": "0.1.0"
+    "node-markdown": "0.1.0",
+    "optimist": "0.3.4"
   },
   "author": "Joe LeBlanc",
   "license": "BSD"
